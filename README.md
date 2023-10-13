@@ -1,7 +1,7 @@
 # landing_page
 landing page using Html CSS and basic JavaScript
 
-#live link
+# Live link
 
 https://surajnimbalkar07.github.io/landing_page/
 
